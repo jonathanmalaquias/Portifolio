@@ -1,0 +1,3 @@
+flet
+qrcode
+pillow

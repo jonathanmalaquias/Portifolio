@@ -1,0 +1,30 @@
+Gerador de QR Code com Interface Gráfica
+Uma aplicação desktop simples e eficiente para gerar QR Codes com nomes de arquivo personalizados e alternância entre modo claro e escuro.
+
+🚀 Funcionalidades
+Interface Amigável: Desenvolvido com Flet (Flutter para Python).
+
+Customização: Escolha o link de destino e o nome do arquivo de saída.
+
+Alternância de Tema: Suporte para os modos Escuro (Dark) e Claro (Light).
+
+Portátil: Disponível como um executável (.exe) independente para Windows.
+
+🛠️ Tecnologias Utilizadas
+Python 3.12+
+
+Flet: Para a interface gráfica (GUI).
+
+QRCode: Para a lógica de geração do código.
+
+Pillow: Para o processamento e salvamento da imagem.
+
+🔧 Como executar (Desenvolvimento)
+Instale as dependências:
+
+Bash
+pip install -r requirements.txt
+Execute o aplicativo:
+
+Bash
+python GeradorQRCode.py
